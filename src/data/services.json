@@ -1,0 +1,42 @@
+{
+    "services":[
+        {
+            "id":1,
+            "name":"Música",
+            "category":[
+    
+                {"name":"Orquesta"},
+                {"name":"Folklore"},
+                {"name":"Mariachi"},
+                {"name":"Rock Fusión"}
+            ]
+        },
+        {
+            "id":2,
+            "name":"Gastronomía",
+            "category":[
+    
+                {"name":"Catering"},
+                {"name":"Garsones"}
+            ]
+        },
+        {
+            "id":3,
+            "name":"Sistemas Sonido",
+            "category":[
+    
+                {"name":"Sonido & Iluminación"},
+                {"name":"Sonido Iluminación & Video"}
+            ]
+        },
+        {
+            "id":4,
+            "name":"Salones",
+            "category":[
+    
+                {"name":"Aire Libre"},
+                {"name":"Salón de Eventos"}
+            ]
+        }
+    ]
+}
