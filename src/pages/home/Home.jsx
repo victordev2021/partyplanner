@@ -9,6 +9,7 @@ export const Home = () => {
   return (
     <div>
       <h1>Aplication</h1>
+      {/* <p>{user.email}</p> */}
       {Services.services.map((service) => {
         return (
           <ul>
